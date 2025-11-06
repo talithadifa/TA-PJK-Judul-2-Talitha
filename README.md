@@ -83,7 +83,7 @@ Hasilnya **semua reply berhasil (100% sukses)**.
 Dari hasil uji di atas, bisa disimpulkan bahwa konfigurasi jaringan sudah berjalan dengan baik.
 Koneksi antar-subnet dapat dilakukan melalui router, dan semua perangkat bisa saling berkomunikasi.
 
-Jika masih ada *Request Timed Out* di awal ping, biasanya disebabkan oleh **ARP request pertama** yang membutuhkan waktu untuk menemukan alamat MAC tujuan — hal ini normal dan bukan tanda error konfigurasi.
+Jika masih ada *Request Timed Out* di awal ping, biasanya disebabkan oleh **ARP request pertama** yang membutuhkan waktu untuk menemukan alamat MAC tujuan, hal ini normal dan bukan tanda error konfigurasi.
 
 
 ## Refleksi
