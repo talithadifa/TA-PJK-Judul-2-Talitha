@@ -107,7 +107,3 @@ Akan terjadi **konflik IP** dengan switch, dan PC-A tidak bisa menemukan gateway
 * Koneksi antar-subnet berjalan baik.
 * Ping dari berbagai perangkat menunjukkan hasil **Reply sukses**.
 * Router berfungsi sebagai penghubung utama antar jaringan.
-
-
-
-Apakah kamu mau aku lanjut bantu buatin versi **.docx-nya** dari README ini biar bisa langsung kamu upload ke GitHub (dengan tempat gambar sudah disiapkan juga)?
